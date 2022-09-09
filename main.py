@@ -8,4 +8,4 @@ def hello_world():
 
 
 if __name__ == "__main__":
-    app.run(host="localhost", port=6186)
+    app.run(host="localhost", port=app.PORT)
