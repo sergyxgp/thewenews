@@ -1,3 +1,2 @@
 Flask
-waitress
-flaskr 1.0.0
+gunicorn
